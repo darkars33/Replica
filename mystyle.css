@@ -1,0 +1,332 @@
+
+
+  .mean{
+   width: 20%;
+   background-color: rgb(21, 20, 20);
+   height: 900px;
+   margin-top: -10px;
+   margin-left: -10px;
+}
+.note{
+    width: 21%;
+    background-color: rgba(26, 25, 25, 0.993);
+    height: 900px;
+    margin-top: -690px;
+    margin-left: 1170px;
+}
+
+ body{
+    background-color: rgba(26, 25, 25, 0.993);
+ }
+
+.youtube{
+    height: 50px;
+    margin-top: 35px;
+    margin-left: 100px;
+}
+
+.name{
+    margin-left: 100px;
+    margin-top: 12px;
+    font-size: 20px;
+    color: rgb(231, 225, 225);
+    }
+
+    h3{
+        color: rgb(232, 216, 216);
+        font-size: 18px;
+        margin-left: 100px;
+        margin-top: 0px;
+         }
+    
+    hr{
+        margin-right: 15px;
+        margin-left: 10px;
+        margin-top: 10px;
+      
+       border-color: rgba(95, 94, 94, 0.852);
+    }
+
+    .hi{
+        background-color: rgba(0, 0, 0, 0.015);
+        border-color: rgba(95, 92, 92, 0.852);
+        margin-right: 15px;
+        margin-top: 10px;
+    }
+
+    .home{
+        height: 10px;
+        margin-top: 14px;
+        margin-left: 79px;
+        color: rgb(248, 244, 244);
+    }
+
+    .list .me  {
+        display: inline;
+        font-size: 15px;
+        margin-left: 15px;
+        margin-top: -100px;
+        text-align: center;
+        color: rgb(238, 234, 234);
+       }
+
+         .char{
+            height: 15px;
+            margin-left: 80px;
+         }
+      
+         .it .xyz{
+            display: inline;
+            margin-top: -10px;
+            color: white;
+         }
+
+         .tri{
+            height: 15px;
+            margin-top: -20px;
+            margin-left: 79px;
+            margin-top: -100px;
+        }
+
+        .xyz{
+           font-size: 15px;
+           margin-left: 22px;
+           margin-top: 10px;
+        }
+
+        .entc .tom{
+            display: inline;
+             color: white;
+        }
+
+        .fan{
+            height: 17px;
+            margin-left: 79px;
+            margin-top: 10px;
+        }
+
+        .tom{
+            margin-left: 24px;
+            margin-top: -2px;
+        }
+
+        .mech .cat{
+            display: inline;
+            color: white;
+        }
+
+        .har{
+            height: 16px;
+            margin-left: 79px;
+            margin-top: 10px;
+        }
+
+        .cat{
+            margin-left: 22px;
+        }
+
+        .ele .dog{
+            display: inline;
+            color: white;
+        }
+
+        .shar{
+            height: 16px;
+            margin-left: 79px;
+            margin-top: 10px;
+        }
+
+        .dog{
+            margin-left: 22px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       .hey .mo{
+        display: inline;
+        color: white;
+        margin-left: 14px;
+       }
+       .hey{
+        background-color: rgb(31, 31, 33);
+        margin-top: 3px;
+       }
+       .mo{
+        margin-top: -20px;
+       }
+       .later .wt{
+        display: inline;
+        color: white;
+        margin-top: 10px;
+       }
+       .watch{
+        height: 13px;
+        margin-left: 79px;
+        margin-top: 10px;
+       }
+       .wt{
+        margin-left: 15px;
+        font-size: 15px;
+       }
+         .tory .you{
+            display: inline;
+            color: white;
+         }
+          .dodo{
+            height: 15px;
+            margin-left: 76px;
+            margin-top: 8px;
+          }
+          .you{
+            font-size: 15px;
+            margin-left: 16px;
+          }
+
+       .mt{
+        height: 450px;
+        width: 870px;
+        margin-left: 400px;
+        margin-top: -250px;
+        margin-left: 320px;
+       }
+       .darshan{
+        border-color: rgb(39, 37, 37);
+        background-color: rgb(92, 87, 87);
+        margin-left: 1500px;
+        height: 1200px;
+        margin-top: -1800px;
+        margin-right:-100px;
+        width: 3px;
+        border-radius: 5px;
+     }
+     .head{
+        height: 65px;
+        margin-left: 320px;
+        margin-top: 25px;
+       }
+
+       .moblie .channel{
+       
+        color: white;
+        font-size: 28px;
+        margin-left:424px;
+       margin-top: -63px;
+       }
+       
+       .kai{
+        
+        color: white;
+        margin-left: 427px;
+        margin-top: -22px;
+        font-size: 10px;
+       }
+       
+
+       .hello{
+        color: black;
+        width: 140px;
+        margin-left: 1000px;
+        margin-right: 200px;
+        text-align: center;
+        border-radius: 20px;
+        height: 30px;
+        margin-top: -50px;
+        font-size: 15px;
+       }
+       .page .hello{
+        font-size: 15px;
+        background-color: white;
+       }
+       
+       
+       
+       .mahal{
+        margin-top:-900px;
+        height: 125px;
+        margin-left: 1245px;
+       }
+       
+       .mere{
+        color: white;
+        margin-left: 1240px;
+        margin-top: -5px;
+       }
+
+       .ohh{
+        color: rgb(138, 133, 133);
+
+       }
+       .lor .kite{
+        background-color: rgb(54, 53, 53);
+        height: 78px;
+       border-radius: 10px;
+
+       }
+
+       .kite{
+        color: white;
+        font-size: 13px;
+        margin-left: 330px;
+        margin-right: 360px;
+        margin-top: 50px;
+         text-align: center;
+        
+       }
+       .my{
+        color: white;
+        margin-left: 50px;
+        margin-top: 1px;
+        font-size: 15px;
+       } 
+       .pic{
+        height: 130px;
+        margin-left: 50px;
+        margin-top: 10px;
+       }
+       .sub{
+        color: white;
+        font-size: 10px;
+        margin-left:50px ;
+        margin-top: -10px;
+       }
+       .ddg{
+        height: 130px;
+        width: 250px;
+        margin-left: 50px;
+        margin-top: 15px;
+       }
+       .ho{
+        height: 15px;
+        margin-left: 78px;
+        margin-top: 10px;
+       }
+       .his{
+        height: 20px;
+        margin-left: 75px;
+       }
+       .dar{
+        color: white;
+        margin-left: 50px;
+        margin-top: -15px;
+       }
+        
+       
